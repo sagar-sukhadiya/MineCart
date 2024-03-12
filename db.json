@@ -1,0 +1,22 @@
+{
+  "register": [
+    {
+      "name": "sk",
+      "email": "sk@gmail.com",
+      "password": 100,
+      "id": "2573"
+    },
+    {
+      "id": "3fae",
+      "name": "sagar",
+      "email": "sagar@gmail.com",
+      "password": "ss123"
+    },
+    {
+      "id": "4483",
+      "name": "",
+      "email": "",
+      "password": ""
+    }
+  ]
+}
